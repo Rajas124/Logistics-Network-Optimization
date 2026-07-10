@@ -1,0 +1,22 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# GAMS / GAMSPy working directories
+.gamspy/
+_gams_work/
+*.gdx
+*.lst
+
+# OS generated files
+.DS_Store
+Thumbs.db
