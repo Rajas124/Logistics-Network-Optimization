@@ -74,7 +74,7 @@ $$\min t_1 + t_2$$
 
 ## Key Results & Insights
 *   **Baseline Minimum Cost:** Fulfills standard structural demand at an optimal cost of **$872,898.94**, leveraging cost-efficient ground/rail networks where available.
-*   ⏱️ **Baseline Minimum Time:** Urgent throughput reduces delivery time to **13.05 hours**, though the aggressive reliance on aviation networks spikes costs to **$9,103,212.00**.
+*   **Baseline Minimum Time:** Urgent throughput reduces delivery time to **13.05 hours**, though the aggressive reliance on aviation networks spikes costs to **$9,103,212.00**.
 *   **Pareto Frontier Sensitivity:** Plotting cost vs. time reveals a distinct knee-bend behavior. Restricting total vehicle availability shifts the frontier, providing crucial data for selecting fleet scales that avoid cost inflation while meeting time-critical thresholds.
 
 ---
